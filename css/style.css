@@ -10,3 +10,7 @@ body{
     background-color: black;
     color: white;
 }
+
+#email-list{
+    margin: 30px;
+}
