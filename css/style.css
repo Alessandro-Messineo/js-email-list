@@ -6,11 +6,19 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* stile body */
 body{
-    background-color: black;
+    background-color: rgb(57, 173, 177);
     color: white;
+    font-family: Arial, sans-serif;
 }
 
-#email-list{
-    margin-left: 30px;
+#email-list {
+    max-width: 500px;
+    margin: 30px auto;
+}
+
+#btn-email {
+    display: block;
+    margin: 10px auto;
 }
